@@ -1,0 +1,12 @@
+{
+  "ids": {
+    "Portfolio": 4
+  },
+  "models": {
+    "Portfolio": {
+      "1": "{\"id\":1,\"title\":\"Datalents\",\"description\":\"Création d'une plateforme de mise en relation d'étudiants\",\"skills\":[\"Symfony\",\"Doctrine\",\"Versionning Git\",\"UX/UI\"],\"date\":\"2018-07-05T10:04:35.047Z\",\"image\":\"https://datalents.brendanpoirier.fr/\"}",
+      "2": "{\"title\":\"Livvi\",\"description\":\"Conception et développement du site du projet LIVVI\",\"skills\":[\"PHP & PDO\",\"Js & Jquery\",\"Versionning Git\",\"UX/UI\"],\"id\":2,\"image\":\"http://livvi.santhor.com/\"}",
+      "3": "{\"title\":\"Santhor\",\"description\":\"Conception et développement du site de l'agence SANTHOR\",\"skills\":[\"PHP & PDO\",\"Js & Jquery\",\"Versionning Git\",\"UX/UI\"],\"id\":3,\"image\":\"http://old.santhor.com/\"}"
+    }
+  }
+}

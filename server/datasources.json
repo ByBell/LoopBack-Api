@@ -1,0 +1,8 @@
+{
+  "portfolioDB": {
+    "name": "portfolioDB",
+    "localStorage": "browser-storage.json",
+    "file": "persitence-storage.json",
+    "connector": "memory"
+  }
+}
